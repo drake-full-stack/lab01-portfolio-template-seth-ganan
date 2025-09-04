@@ -31,6 +31,7 @@ The hardest part was probably getting the images working since certain types of 
 In terms of semantic HTML, I learned how to organize my page in a readable way such as putting the pages in the header to make it easier to navigate.
 
 Expanding the portfolio will be a semester long process. For one, the lack of a stylesheet is horrendous, the portfolio looks like it was written by a five year old. Projects are another essential which I will add as they are created. Also it would be nice to attach my resume so recruiters could take a look.
+
 ---
 
 *This portfolio will grow throughout the semester as you add React components and full-stack projects!*
